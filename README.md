@@ -1,4 +1,8 @@
 # classnames-php
+
+[![Build Status](https://travis-ci.org/CJStroud/classnames-php.svg?branch=master)](https://travis-ci.org/CJStroud/classnames-php)
+
+
 PHP port of the JavaScript classNames utility. https://github.com/JedWatson/classnames
 
 ## Installation
